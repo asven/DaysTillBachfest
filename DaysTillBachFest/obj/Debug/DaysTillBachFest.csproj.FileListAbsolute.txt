@@ -6,6 +6,5 @@ c:\users\aaron\documents\visual studio 2012\Projects\DaysTillBachFest\DaysTillBa
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\bin\DaysTillBachFest.dll.config
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\bin\DaysTillBachFest.dll
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\bin\DaysTillBachFest.pdb
-C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\obj\Debug\DaysTillBachFest.csprojResolveAssemblyReference.cache
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\obj\Debug\DaysTillBachFest.dll
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\obj\Debug\DaysTillBachFest.pdb
