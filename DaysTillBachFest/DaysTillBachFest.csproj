@@ -57,9 +57,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="hakim.wave.js" />
     <Content Include="index.html" />
     <Content Include="bachfest.js" />
     <Content Include="jquery-1.5.1.min.js" />
+    <Content Include="styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

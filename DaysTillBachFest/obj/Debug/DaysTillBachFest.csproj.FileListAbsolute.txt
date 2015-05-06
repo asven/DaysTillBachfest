@@ -8,3 +8,8 @@ C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBa
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\bin\DaysTillBachFest.pdb
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\obj\Debug\DaysTillBachFest.dll
 C:\Users\Jenny\Documents\Visual Studio 2013\Projects\DaysTillBachFest\DaysTillBachFest\obj\Debug\DaysTillBachFest.pdb
+C:\Users\sveaa01\Documents\Visual Studio 2013\Projects\DaysTillBachfest\DaysTillBachFest\bin\DaysTillBachFest.dll
+C:\Users\sveaa01\Documents\Visual Studio 2013\Projects\DaysTillBachfest\DaysTillBachFest\bin\DaysTillBachFest.pdb
+C:\Users\sveaa01\Documents\Visual Studio 2013\Projects\DaysTillBachfest\DaysTillBachFest\obj\Debug\DaysTillBachFest.csprojResolveAssemblyReference.cache
+C:\Users\sveaa01\Documents\Visual Studio 2013\Projects\DaysTillBachfest\DaysTillBachFest\obj\Debug\DaysTillBachFest.dll
+C:\Users\sveaa01\Documents\Visual Studio 2013\Projects\DaysTillBachfest\DaysTillBachFest\obj\Debug\DaysTillBachFest.pdb
