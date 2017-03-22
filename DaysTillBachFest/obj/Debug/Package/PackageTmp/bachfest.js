@@ -3,7 +3,7 @@ function daysUntil()
 {
     var intervalID = setInterval(function ()
     {
-        var bachDay = new Date("7/16/2015");
+        var bachDay = new Date("5/5/2017");
         var difference = (bachDay - new Date());
         var days = Math.floor( difference / ((60 * 60 * 1000 * 24) * 1));
         var hours = Math.floor((difference % (60 * 60 * 1000 * 24)) / (60 * 60 * 1000) * 1);

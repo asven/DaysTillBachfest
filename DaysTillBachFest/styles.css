@@ -1,46 +1,143 @@
 html, body {
-	background-color: #ffffff;
+    background-color: #ffffff;
 }
 
 h2 a {
-	color: #333333;
-	background-color: #FFFECF;
-	text-decoration: none;
-	font-style: italic;
+    color: #333333;
+    background-color: #FFFECF;
+    text-decoration: none;
+    font-style: italic;
 }
-h2 a:hover {
-	color: #FFFECF;
-	background-color: #333333;
-}
+
+    h2 a:hover {
+        color: #FFFECF;
+        background-color: #333333;
+    }
 
 #tweet {
-	margin: 0 15%;
-	position: absolute;
-	color: #23A1A1;
-	font-size: 26px;
-	text-align: center;
-	width: 70%;
+    margin: 0 15%;
+    position: absolute;
+    color: #23A1A1;
+    font-size: 26px;
+    text-align: center;
+    width: 70%;
 }
-#tweet a {
-	color: #018282;
-	font-style: italic;
-	text-decoration: none;
-}
-#tweet a:hover {
-	background-color: #DEF2FF;
-}
-#tweet p.author {
-	padding-top: 10px;
-	font-size: 11px;
-}
+
+    #tweet a {
+        color: #018282;
+        font-style: italic;
+        text-decoration: none;
+    }
+
+        #tweet a:hover {
+            background-color: #DEF2FF;
+        }
+
+    #tweet p.author {
+        padding-top: 10px;
+        font-size: 11px;
+    }
 
 h1 {
-	-moz-user-select: none;
-	cursor: default;
-	width: 100%;
-	text-align: center;
-	color: #efefef;
-	font-size: 250px;
-	position: absolute;
+    -moz-user-select: none;
+    cursor: default;
+    width: 100%;
+    text-align: center;
+    color: #efefef;
+    font-size: 250px;
+    position: absolute;
 }
 
+    #date1Div {
+        background-repeat: no-repeat;
+        background-position-x: 2.1em;
+        background-size: 1em;
+        background-position-y: .10em;
+        background-image: url("/Images/I.png");
+        overflow: visible;
+        padding-bottom: .2em;
+        margin-top: .2em;
+        margin-left: .1em;
+    }
+
+    #date2Div {
+        background-repeat: no-repeat;
+        background-position-x: 1.8em;
+        background-size:  1.65em;
+        background-position-y: .25em;
+        background-image: url("/Images/II.png");
+        overflow: visible;
+    }
+
+@media only screen and (min-width: 1025px) {
+    #date1Div {
+        background-position-x: 2.1em;
+        background-position-y: .10em;
+        overflow: visible;
+        padding-bottom: .2em;
+        margin-top: .2em;
+        margin-left: .1em;
+    }
+
+    #date2Div {
+        background-position-x: 1.8em;
+        background-position-y: .25em;
+        overflow: visible;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1024px) and (orientation: portrait) {
+    #date1Div {
+        background-position-x: 2.1em;
+        background-position-y: .10em;
+        overflow: visible;
+        padding-bottom: 1em;
+        margin-top: 1.5em;
+        margin-left: .1em;
+    }
+
+    #date2Div {
+        background-position-x: 1.8em;
+        background-position-y: .25em;
+        overflow: visible;
+        margin-left: .1em;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #date1Div {
+        background-position-x: 2.2em;
+        background-position-y: .10em;
+        overflow: visible;
+        margin-top: .2em;
+        margin-left: .1em;
+        padding-bottom: .2em;
+    }
+
+    #date2Div {
+        background-position-x: 1.8em;
+        margin-left: .1em;
+        background-position-y: .25em;
+        overflow: visible;
+    }
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+    #date1Div {
+        background-position-x: 2.23em;
+        background-position-y: .10em;
+        overflow: visible;
+        margin-top: 2em;
+        margin-left: .1em;
+        padding-bottom: 2em;
+    }
+
+    #date2Div {
+        background-position-x: 1.8em;
+        background-position-y: .25em;
+        overflow: visible;
+        margin-top: .1em;
+        margin-left: .1em;
+        padding-bottom: .1em;
+    }
+}
