@@ -48,26 +48,33 @@ h1 {
     position: absolute;
 }
 
-    #date1Div {
-        background-repeat: no-repeat;
-        background-position-x: 2.1em;
-        background-size: 1em;
-        background-position-y: .10em;
-        background-image: url("/Images/I.png");
-        overflow: visible;
-        padding-bottom: .2em;
-        margin-top: .2em;
-        margin-left: .1em;
-    }
+#date1Div {
+    background-repeat: no-repeat;
+    background-position-x: 2.1em;
+    background-size: 1em;
+    background-position-y: .10em;
+    background-image: url("/Images/I.png");
+    overflow: visible;
+    padding-bottom: .2em;
+    margin-top: .2em;
+    margin-left: .1em;
+}
 
-    #date2Div {
-        background-repeat: no-repeat;
-        background-position-x: 1.8em;
-        background-size:  1.65em;
-        background-position-y: .25em;
-        background-image: url("/Images/II.png");
-        overflow: visible;
-    }
+#date2Div {
+    background-repeat: no-repeat;
+    background-position-x: 1.8em;
+    background-size: 1.65em;
+    background-position-y: .25em;
+    background-image: url("/Images/II.png");
+    overflow: visible;
+}
+
+#hash {
+    position: fixed;
+    bottom:5px;
+    right:5px;
+    font-weight:bold;
+}
 
 @media only screen and (min-width: 1025px) {
     #date1Div {
